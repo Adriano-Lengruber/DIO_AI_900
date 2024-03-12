@@ -18,6 +18,7 @@ Agora vamos configurar o modelo e conjunto de dados para teste, seguindo as inst
 Na aba "Métricas" vamos analisar os gráficos dos dados gerados pelo modelo.
 Em "Pontos de Extremidade" ou "Endpoints" vamos coloar o seguinte código e testar:
 
+
  {
    "Inputs": { 
      "data": [
@@ -39,11 +40,7 @@ Em "Pontos de Extremidade" ou "Endpoints" vamos coloar o seguinte código e test
    },   
    "GlobalParameters": 1.0
  }
-
 _________________________________________________________________________________________________________________________________________________
 
 Laboratório 2 =>
-
-
-
 
