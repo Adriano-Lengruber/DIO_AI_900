@@ -55,3 +55,11 @@ Detectar a localização do texto:
 1 - Selecionar a aba "Optical character recognition"
 2 - Usar uma imagem de teste da platafomra
 3 - Usar um arquivo pessoal para teste
+
+
+### Análise de Imagens (Add captions to images):
+
+1 - Selecionar o recurso "Add captions to images"
+2 - Usar uma imagem de teste da platafomra
+3 - Usar um arquivo pessoal para teste
+
