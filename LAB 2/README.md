@@ -37,15 +37,21 @@ Detectar a localização do texto:
 * Escrito à mão
 * Opções para extração rápida de texto de imagens ou análise assíncrona de documentos digitalizados maiores
 
-# Laboratório / Prática :
+## Laboratório 2 / Prática :
 
-## Reconhecimento facial e transformação de imagens em dados no Azure ML
+### Reconhecimento facial e transformação de imagens em dados no Azure ML
 
-### Configurando o serviço: 
+#### Configurando o serviço: 
 
 1 - Criar recurso em Azure AI Services
 2 - Acessar Portal : portal.vision.cognitive.azure.com
 3 - Selecionar a instância criada como DEFAULT
 4 - Ir para a aba "FACE" e Detectar faces em imagens
 5 - Marcar a BOX "I acknowledge.......
-6 - 
+6 - Enviar imagens para testar a ferramenta
+
+### Análise de Documentos :
+
+1 - Selecionar a aba "Optical character recognition"
+2 - Usar uma imagem de teste da platafomra
+3 - Usar um arquivo pessoal para teste
