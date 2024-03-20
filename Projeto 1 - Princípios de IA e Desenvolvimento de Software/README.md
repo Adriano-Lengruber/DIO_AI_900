@@ -1,4 +1,4 @@
-# LAB 1 =>
+# Projeto 1
 
 Nossa primeira prática foi a realização de um laboratório inicial proposto pela própria plataforma Azure, claro com a ajuda da Professora expert no assunto!
 

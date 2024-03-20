@@ -1,4 +1,4 @@
-# LAB 2
+# Projeto 2
 
 ## Análise de imagem 4.0 com o AI Vision Service
 
@@ -37,11 +37,11 @@ Detectar a localização do texto:
 * Escrito à mão
 * Opções para extração rápida de texto de imagens ou análise assíncrona de documentos digitalizados maiores
 
-## Laboratório 2 / Prática :
+# Projeto 2 - Prática
 
-### Reconhecimento facial e transformação de imagens em dados no Azure ML
+## Reconhecimento facial e transformação de imagens em dados no Azure ML
 
-#### Configurando o serviço: 
+### Configurando o serviço
 
 1 - Criar recurso em Azure AI Services
 2 - Acessar Portal : portal.vision.cognitive.azure.com
@@ -50,16 +50,14 @@ Detectar a localização do texto:
 5 - Marcar a BOX "I acknowledge.......
 6 - Enviar imagens para testar a ferramenta
 
-### Análise de Documentos :
+### Análise de Documentos
 
 1 - Selecionar a aba "Optical character recognition"
 2 - Usar uma imagem de teste da platafomra
 3 - Usar um arquivo pessoal para teste
 
-
-### Análise de Imagens (Add captions to images):
+### Análise de Imagens (Add captions to images)
 
 1 - Selecionar o recurso "Add captions to images"
 2 - Usar uma imagem de teste da platafomra
 3 - Usar um arquivo pessoal para teste
-

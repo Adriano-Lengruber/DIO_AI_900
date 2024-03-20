@@ -1,5 +1,5 @@
 
-# LAB 4 - Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
+# Projeto 4 - Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados
 
 ## Mineração de conhecimento
 
@@ -50,7 +50,7 @@
 * Consumido durante a indexação
 * Os dados serializados são passados ao mecanismo de pesquisa para indexação.
 
-# LAB 4 - PRÁTICA
+# Projeto 4 - Prática
 
 Link Oficial: https://aka.ms/ai900-ai-search
 

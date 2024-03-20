@@ -1,4 +1,4 @@
-# LAB 3
+# Projeto 3
 
 ## Análise de texto e resposta a perguntas
 
@@ -23,7 +23,7 @@ Links com passo a passo do laboratório:
 * https://aka.ms/ai900-speech
 * https://aka.ms/ai900-text-analysis
 
-# LAB 3 - Prárica
+# Projeto 3 - Prática
 
 ## Conhecendo o Estúdio de fala
 
